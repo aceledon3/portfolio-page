@@ -1,0 +1,27 @@
+pre{
+  color: navy;
+  font-size: 24px;
+}
+h1{
+  color: purple;font-size: 72px;text-align: center;}
+h2 {
+  color: purple;font-size: 52px;}
+b {
+  color: blue;font-size: 36px;}
+p {
+  color: navy; font-size: 24px;}
+body {
+  background-color: powderblue}
+ul{
+  color: navy;font-size: 24px;list-style-type: circle; list-style-position: inside;}
+.page-content { width: 100%;
+  display: inline-block;
+
+  }
+  .info { width: 50%;
+
+  }
+.about-me{width: 50%}
+img {
+  width: 350px; heigth: 350px;
+}
